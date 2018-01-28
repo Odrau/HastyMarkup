@@ -1,5 +1,5 @@
-1.1
-https://steemit.com/steemit/@odrau/hastymarkup-update-1-1
+1.2
+https://steemit.com/steemit/@odrau/hastymarkup-update-1-2
 https://steemitimages.com/DQmSYNJ5EcSjsCwkS8SoGrX9Vp7spM1QwokUkTy5TRKm9J3/leaf-plant.png
 https://steemit.com/steemit/@odrau/hastymarkup-reference
 https://hasty.tools/hastymarkup/help/
