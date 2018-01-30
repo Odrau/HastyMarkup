@@ -1,9 +1,12 @@
 1.1
 https://steemit.com/steemit/@odrau/hastymarkup-update-1-1
 https://steemitimages.com/DQmSYNJ5EcSjsCwkS8SoGrX9Vp7spM1QwokUkTy5TRKm9J3/leaf-plant.png
+Want help editing your post? Get
+HastyMarkup
+an app by @odrau
 https://steemit.com/steemit/@odrau/hastymarkup-reference
+https://steemit.com/steemit/@odrau/hastymarkup-hotstrings-cheatsheet
 https://hasty.tools/hastymarkup/help/
 https://discordapp.com/invite/7nSm5Ux
 https://hasty.tools/hastymarkup/donate/
 https://hasty.tools/
-https://steemit.com/steemit/@odrau/hastymarkup-hotstrings-cheatsheet
