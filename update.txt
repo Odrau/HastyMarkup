@@ -1,7 +1,7 @@
 1.1
 https://steemit.com/steemit/@odrau/hastymarkup-v1-1-powerful-app-with-gui-for-the-markdown-editor
 https://steemitimages.com/DQmSYNJ5EcSjsCwkS8SoGrX9Vp7spM1QwokUkTy5TRKm9J3/leaf-plant.png
-Want help editing your post? Get
+Want help editing your posts? Get
 HastyMarkup
 an app by @odrau
 https://steemit.com/steemit/@odrau/hastymarkup-reference
